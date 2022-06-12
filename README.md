@@ -9,3 +9,5 @@ Only confirmed planets matching the following criteria are available for the ear
 Planetary radius < 1.6 times Earth's radius
 Effective stellar flux > 0.36 times Earth's value and < 1.11 times Earth's value
 
+Includes integration with the SpaceX API
+
